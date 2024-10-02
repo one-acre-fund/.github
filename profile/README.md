@@ -1,4 +1,4 @@
-# Welcome to One Acre Fund 🌱
+![Logo](img/logo.png)
 
 🧑‍🌾 We are a nonprofit focused on improving lives of smallholder farmers in Africa, currently serving 2M+ farmer families.
 
